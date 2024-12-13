@@ -2,12 +2,12 @@
 
 Website of water quality monitoring system using Arduino, C, PHP, AngularJS and Python.
 
-A part of final year project KICT, IIUM
+A part of UG final year project
 
 
 ## Project Requirements:
 * Arduino 
-    * Arduino board files [Download here](https://github.com/atifmustaffa/Water-Quality-Monitoring-System-Arduino)
+    * Arduino board files
     
 * Python 3 - _**Python 3.6.0** is used in this project_
     * Python ```requests``` package [Official Site](http://docs.python-requests.org/en/v2.7.0/user/install/)
