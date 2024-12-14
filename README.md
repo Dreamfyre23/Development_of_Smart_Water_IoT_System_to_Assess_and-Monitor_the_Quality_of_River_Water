@@ -37,13 +37,11 @@ A part of UG final year project
 
 ## Block Diagram
 
-![Block Diagram](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%202.png)
 <img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%202.png" width=50% height=50%>
 
 
 ## Proposed Circuit Diagram
 
-![Proposed Circuit Diagram](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%201.png)
 <img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%201.png" width=50% height=50%>
 
 
@@ -56,18 +54,6 @@ A part of UG final year project
 
 
 ## Result
-
-![Display in Hardware](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%208.png)
-
-![Adafruit Dashboard](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%207.png)
-
-![Live Data taken from Arjuna River](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%203.png)
-
-![WebPage 1](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%204.png)
-
-![WebPage 2](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%205.png)
-
-![Email Alert](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%206.png)
 
 <img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%208.png" width=50% height=50%>
 
