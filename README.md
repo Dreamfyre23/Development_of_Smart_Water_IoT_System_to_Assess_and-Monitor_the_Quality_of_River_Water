@@ -36,11 +36,12 @@ A part of UG final year project
 
 
 ## Block Diagram
-![Block Diagram](Images/Picture 2.PNG)
+![Block Diagram](Images/Picture 2.png)
 
 
 ## Proposed Circuit Diagram
-![Proposed Circuit Diagram](Images/Picture 1.PNG)
+
+![Proposed Circuit Diagram](Images/Picture 1.png)
 
 
 ## Dataset
@@ -51,9 +52,10 @@ A part of UG final year project
 [Reference](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability)
 
 ## Result
-![Display in Hardware](Images/Picture 8.PNG)
-![Adafruit Dashboard](Images/Picture 7.PNG)
-![Live Data taken from Arjuna River](Images/Picture 3.PNG)
-![WebPage 1](Images/Picture 4.PNG)
-![WebPage 2](Images/Picture 5.PNG)
-![Email Alert](Images/Picture 6.PNG)
+
+![Display in Hardware](Images/Picture 8.png)
+![Adafruit Dashboard](Images/Picture 7.png)
+![Live Data taken from Arjuna River](Images/Picture 3.png)
+![WebPage 1](Images/Picture 4.png)
+![WebPage 2](Images/Picture 5.png)
+![Email Alert](Images/Picture 6.png)
