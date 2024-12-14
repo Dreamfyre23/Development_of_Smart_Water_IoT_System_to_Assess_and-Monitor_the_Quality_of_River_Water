@@ -37,12 +37,12 @@ A part of UG final year project
 
 ## Block Diagram
 
-[Block Diagram]([Images/Picture 2.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%202.png))
+![Block Diagram](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%202.png)
 
 
 ## Proposed Circuit Diagram
 
-[Proposed Circuit Diagram]([Images/Picture 1.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%201.png))
+![Proposed Circuit Diagram](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%201.png)
 
 
 ## Dataset
@@ -52,11 +52,17 @@ A part of UG final year project
 
 [Reference](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability)
 
+
 ## Result
 
-[Display in Hardware]([Images/Picture 8.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%208.png))
-[Adafruit Dashboard]([Images/Picture 7.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%207.png))
-[Live Data taken from Arjuna River]([Images/Picture 3.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%203.png))
-[WebPage 1]([Images/Picture 4.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%204.png))
-[WebPage 2]([Images/Picture 5.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%205.png))
-[Email Alert]([Images/Picture 6.png](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%206.png))
+![Display in Hardware](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%208.png)
+
+![Adafruit Dashboard](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%207.png)
+
+![Live Data taken from Arjuna River](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%203.png)
+
+![WebPage 1](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%204.png)
+
+![WebPage 2](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%205.png)
+
+![Email Alert](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%206.png)
