@@ -35,7 +35,12 @@ A part of UG final year project
 ** _Run/Open ```serialread.py```_
 
 
+## Block Diagram
+![Block Diagram](Images/Picture 2.PNG)
+
+
 ## Proposed Circuit Diagram
+![Proposed Circuit Diagram](Images/Picture 1.PNG)
 
 
 ## Dataset
@@ -45,8 +50,10 @@ A part of UG final year project
 
 [Reference](https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability)
 
-
-## WQI Interpretation
-
-
 ## Result
+![Display in Hardware](Images/Picture 8.PNG)
+![Adafruit Dashboard](Images/Picture 7.PNG)
+![Live Data taken from Arjuna River](Images/Picture 3.PNG)
+![WebPage 1](Images/Picture 4.PNG)
+![WebPage 2](Images/Picture 5.PNG)
+![Email Alert](Images/Picture 6.PNG)
