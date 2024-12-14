@@ -32,5 +32,5 @@ PRIMARY KEY(readingid)
 -- Below is the default admins for fresh database created
 -- You can change or skip this
 INSERT INTO user (fullname,email,username,password) VALUES
-('Atif Mustaffa','atifmustaffa@gmail.com','admin','1122'),
-('Dinesh Ram','spdr2312@gmail.com','spdr2312','blueye@23');
+('Dinesh Ram S P','dineshramsp@gmail.com','admin','1234'),
+('Dinesh','spdr2312@gmail.com','spdr2312','blueye@23');
