@@ -38,11 +38,13 @@ A part of UG final year project
 ## Block Diagram
 
 ![Block Diagram](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%202.png)
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%202.png" width=50% height=50%>
 
 
 ## Proposed Circuit Diagram
 
 ![Proposed Circuit Diagram](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%201.png)
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%201.png" width=50% height=50%>
 
 
 ## Dataset
@@ -66,3 +68,15 @@ A part of UG final year project
 ![WebPage 2](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%205.png)
 
 ![Email Alert](https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%206.png)
+
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%208.png" width=50% height=50%>
+
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%207.png" width=50% height=50%>
+
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%203.png" width=50% height=50%>
+
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%204.png" width=50% height=50%>
+
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%205.png" width=50% height=50%>
+
+<img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%206.png" width=50% height=50%>
