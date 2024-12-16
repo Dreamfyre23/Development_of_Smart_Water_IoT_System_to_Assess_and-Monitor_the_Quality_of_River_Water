@@ -7,8 +7,8 @@ import requests
 # USB port - Adruino USB connection to PC --/
 #usb_serial_port = "COM3"
 
-ADAF_Username = 'dineshram'
-ADAF_Key = 'aio_GSvf4292LhXOCUmMvSpGuP9PGpdF'
+ADAF_Username = '********'
+ADAF_Key = '********************************'
 
 aio = Client(ADAF_Username, ADAF_Key)
 
