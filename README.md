@@ -66,3 +66,10 @@ A part of UG final year project
 <img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%205.png" width=50% height=50%>
 
 <img src="https://github.com/Dreamfyre23/Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water/blob/main/Images/Picture%206.png" width=50% height=50%>
+
+## Publication
+
+This project resulted in a peer-reviewed journal publication.
+
+DOI:
+https://doi.org/10.51583/IJLTEMAS.2026.150600128
