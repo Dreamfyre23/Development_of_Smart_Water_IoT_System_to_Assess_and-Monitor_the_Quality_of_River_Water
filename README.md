@@ -141,11 +141,11 @@ This enables users to interpret water quality more intuitively than relying sole
 
 <img src="Images/Picture%207.png">
 
+<img src="Images/Picture%203.png">
+
 ---
 
 ## Web Application
-
-<img src="Images/Picture%203.png">
 
 <img src="Images/Picture%204.png">
 
