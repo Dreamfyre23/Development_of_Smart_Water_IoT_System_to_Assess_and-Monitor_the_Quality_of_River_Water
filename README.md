@@ -1,4 +1,4 @@
-# Development_of_Smart_Water_IoT_System_to_Assess_and-Monitor_the_Quality_of_River_Water
+# Development of Smart Water IoT System to Assess and Monitor the Quality of River Water
 
 Website of water quality monitoring system using Arduino, C, PHP, AngularJS and Python.
 
