@@ -253,4 +253,4 @@ M.Tech Artificial Intelligence
 
 ---
 
-# ⭐ If you found this project interesting, consider giving it a star!
+## ⭐ If you found this project interesting, consider giving it a star!
