@@ -151,6 +151,10 @@ This enables users to interpret water quality more intuitively than relying sole
 
 <img src="Images/Picture%205.png">
 
+---
+
+## Mail Alert
+
 <img src="Images/Picture%206.png">
 
 ---
