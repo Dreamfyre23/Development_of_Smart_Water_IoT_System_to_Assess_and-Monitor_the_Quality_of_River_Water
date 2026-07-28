@@ -6,16 +6,6 @@ This project was developed as my **Undergraduate Final Year Project** and later 
 
 ---
 
-## 📄 Publication
-
-**International Journal of Latest Technology in Engineering, Management & Applied Science (IJLTEMAS)**
-
-**Title:** Development of Smart Water IoT System to Assess and Monitor the Quality of River Water
-
-**DOI:** https://doi.org/10.51583/IJLTEMAS.2026.150600128
-
----
-
 # 📖 Overview
 
 Monitoring river water quality is essential for environmental protection, public health, and sustainable water resource management. Traditional manual sampling methods are often time-consuming and unable to provide continuous monitoring.
